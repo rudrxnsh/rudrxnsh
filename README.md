@@ -2,9 +2,8 @@
 - 👀 I’m interested in cyber_security
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on hacking_projects
-- 📫 Fpr collabe mail @rudranshtri890@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 For collabe mail @rudranshtri890@gmail.com 
+
 
 <!---
 rudrxnsh/rudrxnsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
